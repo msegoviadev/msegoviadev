@@ -20,4 +20,5 @@ Senior Software Engineer based in Switzerland.
 
 ---
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=msegoviadev&hide_border=true" height="150" />
+[![Stats](https://raw.githubusercontent.com/msegoviadev/msegoviadev/main/profile/stats.svg)](https://github.com/msegoviadev)
+[![Top Languages](https://raw.githubusercontent.com/msegoviadev/msegoviadev/main/profile/top-langs.svg)](https://github.com/msegoviadev)
