@@ -20,5 +20,4 @@ Senior Software Engineer based in Switzerland.
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=msegoviadev&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msegoviadev&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=msegoviadev&theme=tokyonight&hide_border=true" height="150" />
