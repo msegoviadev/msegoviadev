@@ -1,4 +1,4 @@
-# Hi, I'm Marcos 👋
+# Hey, I'm Marcos 👋
 
 Senior Software Engineer based in Switzerland.
 
