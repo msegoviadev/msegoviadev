@@ -6,7 +6,7 @@ Senior Software Engineer based in Switzerland.
 
 ### What I'm into
 
-- Hardcore agent engineer — building with opencode and Claude Code
+- Hardcore agent engineer — building with OpenCode and Claude Code
 - I love all things in the terminal: Neovim, dotfiles, and anything that lives in a shell
 - Java, TypeScript, and Go by trade — PHP at heart
 
