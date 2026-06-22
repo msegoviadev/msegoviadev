@@ -150,7 +150,7 @@
           data-testid="lang-progress"
           x="169.45"
           y="0"
-          width="29.37"
+          width="29.36"
           height="8"
           fill="#4F5D95"
         />
@@ -158,7 +158,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="198.82"
+          x="198.81"
           y="0"
           width="24.99"
           height="8"
@@ -168,7 +168,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="223.81"
+          x="223.8"
           y="0"
           width="16.43"
           height="8"
@@ -178,7 +178,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="240.24"
+          x="240.23000000000002"
           y="0"
           width="19.759999999999998"
           height="8"
@@ -226,7 +226,7 @@
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#000080" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Lua 3.90%
+        Lua 3.91%
       </text>
     </g>
   </g></g>
