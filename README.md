@@ -2,16 +2,16 @@
 
 Senior Software Engineer based in Switzerland.
 
-Lately I've been putting agents to work and watching how my craft is changing because of it.
+In the era of Agents, building my perfect Homelab + Linux desktop.
 
 ---
 
 ### What I'm into
 
-- I live in the terminal — Neovim, dotfiles, and anything that feels like home in a shell
-- Building with opencode and Claude Code, learning how agents can amplify the way I think and ship
-- I reach for whatever helps me ship — Java, TypeScript, Go, or anything else that fits
-- Lately, home-lab(ing) and selfhosting
+- I live in the terminal. Neovim, agent tools, any trendy CLIs. You get me.
+- Building with Opencode. I love this unlocked era of being able to learn and ship anything you always wanted.
+- Java, Typescript, PHP. Would also consider myself a versatile DevOps.
+- Lately, home-lab(ing), selfhosting and transitioning from 10+ years of MacOS to Omarchy.
 ---
 
 [![Top Languages](https://raw.githubusercontent.com/msegoviadev/msegoviadev/main/profile/top-langs.svg)](https://github.com/msegoviadev)
